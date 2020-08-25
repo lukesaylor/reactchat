@@ -11,7 +11,7 @@ const InfoBar =({room}) => (
             <h3>{room}</h3>
         </div>
         <div className="rightInnerContainer">
-            <Link to="/" exact><img src={closeIcon} alt="close"/></Link>
+            <Link to="/#" exact><img src={closeIcon} alt="close"/></Link>
         </div>
     </div>
 );
