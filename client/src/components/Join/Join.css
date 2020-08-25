@@ -49,6 +49,10 @@ html, body {
       border: none;
       width: 100%;
   }
+
+  .billLogo {
+    width: 80%;
+  }
   
   .mt-20 {
     margin-top: 20px;

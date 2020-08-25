@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import './Join.css';
+import BillsLogo from '../../icons/billstranslogo.png';
 
 const Join = () => {
   const [name, setName] = useState("");
@@ -9,7 +10,8 @@ const Join = () => {
   return (
     <div className="joinOuterContainer">
       <div className="joinInnerContainer">
-        <h1 className="heading">Join</h1>
+        <img className="billLogo" src={BillsLogo} alt="the bills"/>
+        <h1 className="heading">BillChat v1.0</h1>
         <div>
           <input placeholder="Name" className="joinInput" type="text" onChange={(event)=> setName(event.target.value) } />
         </div>
