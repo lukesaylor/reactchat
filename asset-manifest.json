@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/reactchat/static/css/main.fe4c613f.chunk.css",
-    "main.js": "/reactchat/static/js/main.c1179a9b.chunk.js",
-    "main.js.map": "/reactchat/static/js/main.c1179a9b.chunk.js.map",
+    "main.css": "/reactchat/static/css/main.d7cd459e.chunk.css",
+    "main.js": "/reactchat/static/js/main.d265a386.chunk.js",
+    "main.js.map": "/reactchat/static/js/main.d265a386.chunk.js.map",
     "runtime-main.js": "/reactchat/static/js/runtime-main.5573e1ea.js",
     "runtime-main.js.map": "/reactchat/static/js/runtime-main.5573e1ea.js.map",
     "static/js/2.99d895a1.chunk.js": "/reactchat/static/js/2.99d895a1.chunk.js",
     "static/js/2.99d895a1.chunk.js.map": "/reactchat/static/js/2.99d895a1.chunk.js.map",
     "index.html": "/reactchat/index.html",
-    "precache-manifest.70da6274afb4d9f533c15cfeda15168a.js": "/reactchat/precache-manifest.70da6274afb4d9f533c15cfeda15168a.js",
+    "precache-manifest.68a0ce1a509e1b50945c40334e639f6c.js": "/reactchat/precache-manifest.68a0ce1a509e1b50945c40334e639f6c.js",
     "service-worker.js": "/reactchat/service-worker.js",
-    "static/css/main.fe4c613f.chunk.css.map": "/reactchat/static/css/main.fe4c613f.chunk.css.map",
+    "static/css/main.d7cd459e.chunk.css.map": "/reactchat/static/css/main.d7cd459e.chunk.css.map",
     "static/js/2.99d895a1.chunk.js.LICENSE.txt": "/reactchat/static/js/2.99d895a1.chunk.js.LICENSE.txt",
     "static/media/billstranslogo.png": "/reactchat/static/media/billstranslogo.f3ccc3b3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5573e1ea.js",
     "static/js/2.99d895a1.chunk.js",
-    "static/css/main.fe4c613f.chunk.css",
-    "static/js/main.c1179a9b.chunk.js"
+    "static/css/main.d7cd459e.chunk.css",
+    "static/js/main.d265a386.chunk.js"
   ]
 }
