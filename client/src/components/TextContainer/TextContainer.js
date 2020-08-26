@@ -4,7 +4,7 @@ import onlineIcon from "../../icons/onlineIcon.png";
 
 import "./TextContainer.css";
 
-const TextContainer = ({ users }) => (
+const TextContainer = ({ users, room }) => (
   <div className="textContainer">
      
     {users ? (
@@ -14,7 +14,7 @@ const TextContainer = ({ users }) => (
           <h2>
             {users.map(({ name }) => (
               <div key={name} className="activeItem">
-                {name}
+                {`${name} : ${room}`}
                 <img alt="Online Icon" src={onlineIcon} />
               </div>
             ))}
